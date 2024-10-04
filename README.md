@@ -28,18 +28,19 @@
 ### I'm learning at the moment:
 ![Oracle](https://img.shields.io/badge/-oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-
+![Notepad++](https://img.shields.io/badge/-Notepad++-0D1117?style=for-the-badge&logo=notepadplusplus&labelColor=0D1117)&nbsp;
  
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![PostGree](https://img.shields.io/badge/-postgree-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-0D1117?style=for-the-badge&logo=amazonsimpleemailservice&labelColor=0D1117)&nbsp;
 ![virtualbox](https://img.shields.io/badge/-virtualbox-0D1117?style=for-the-badge&logo=virtualbox&labelColor=0D1117)&nbsp;
+![Notepad++](https://img.shields.io/badge/-Notepad++-0D1117?style=for-the-badge&logo=notepadplusplus&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 
   
 ### Learn in the future:
